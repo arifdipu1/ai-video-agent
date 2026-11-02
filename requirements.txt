@@ -2,4 +2,4 @@ streamlit
 edge-tts
 requests
 python-dotenv
-google-genaI
+google-genai
