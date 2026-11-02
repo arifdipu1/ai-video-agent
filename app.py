@@ -4,7 +4,7 @@ from pathlib import Path
 
 BASE = Path.home() / "ai-video-agent"
 OUTPUT = BASE / "output"
-OUTPUT.mkdir(exist_ok=True)
+OUTPUT.mkdir(parents=True, exist_ok=True)
 
 st.set_page_config(
     page_title="My AI Video Studio",
