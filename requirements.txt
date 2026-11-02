@@ -1,0 +1,5 @@
+streamlit
+edge-tts
+requests
+python-dotenv
+google-gena
