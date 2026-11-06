@@ -3,3 +3,6 @@ edge-tts
 requests
 python-dotenv
 google-genai
+streamlit
+edge-tts
+magic_hour
